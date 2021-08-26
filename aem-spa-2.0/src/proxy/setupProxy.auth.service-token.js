@@ -1,11 +1,3 @@
-/*
-Copyright 2020 Adobe
-All Rights Reserved.
-
-NOTICE: Adobe permits you to use, modify, and distribute this file in
-accordance with the terms of the Adobe license agreement accompanying
-it.
-*/
 const { createProxyMiddleware } = require('http-proxy-middleware');
 const session = require('express-session')
 const { getToken } = require('@adobe/aem-headless-client-js');
