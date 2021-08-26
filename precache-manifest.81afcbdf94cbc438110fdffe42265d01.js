@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1b5a307eee09e097e6a1ae0157b36eb",
+    "revision": "59f05a5741b1c001f0f272635d450cb3",
     "url": "/aem-spa-2.0/index.html"
   },
   {
-    "revision": "5077d60bf71c5d1fcc05",
-    "url": "/aem-spa-2.0/static/css/main.5dd56545.chunk.css"
+    "revision": "c2e47119a10f43895d3a",
+    "url": "/aem-spa-2.0/static/css/main.681e6c4c.chunk.css"
   },
   {
     "revision": "7c9d0c6274b82f16ca49",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aem-spa-2.0/static/js/2.2512a7c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5077d60bf71c5d1fcc05",
-    "url": "/aem-spa-2.0/static/js/main.5135e733.chunk.js"
+    "revision": "c2e47119a10f43895d3a",
+    "url": "/aem-spa-2.0/static/js/main.d9a7b5b3.chunk.js"
   },
   {
     "revision": "827124195cea8593a33f",

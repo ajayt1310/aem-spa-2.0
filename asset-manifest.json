@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aem-spa-2.0/static/css/main.5dd56545.chunk.css",
-    "main.js": "/aem-spa-2.0/static/js/main.5135e733.chunk.js",
-    "main.js.map": "/aem-spa-2.0/static/js/main.5135e733.chunk.js.map",
+    "main.css": "/aem-spa-2.0/static/css/main.681e6c4c.chunk.css",
+    "main.js": "/aem-spa-2.0/static/js/main.d9a7b5b3.chunk.js",
+    "main.js.map": "/aem-spa-2.0/static/js/main.d9a7b5b3.chunk.js.map",
     "runtime-main.js": "/aem-spa-2.0/static/js/runtime-main.58be2d71.js",
     "runtime-main.js.map": "/aem-spa-2.0/static/js/runtime-main.58be2d71.js.map",
     "static/js/2.2512a7c3.chunk.js": "/aem-spa-2.0/static/js/2.2512a7c3.chunk.js",
     "static/js/2.2512a7c3.chunk.js.map": "/aem-spa-2.0/static/js/2.2512a7c3.chunk.js.map",
     "index.html": "/aem-spa-2.0/index.html",
-    "precache-manifest.70db369d8f59313ec59af04b5b195861.js": "/aem-spa-2.0/precache-manifest.70db369d8f59313ec59af04b5b195861.js",
+    "precache-manifest.81afcbdf94cbc438110fdffe42265d01.js": "/aem-spa-2.0/precache-manifest.81afcbdf94cbc438110fdffe42265d01.js",
     "service-worker.js": "/aem-spa-2.0/service-worker.js",
-    "static/css/main.5dd56545.chunk.css.map": "/aem-spa-2.0/static/css/main.5dd56545.chunk.css.map",
+    "static/css/main.681e6c4c.chunk.css.map": "/aem-spa-2.0/static/css/main.681e6c4c.chunk.css.map",
     "static/js/2.2512a7c3.chunk.js.LICENSE.txt": "/aem-spa-2.0/static/js/2.2512a7c3.chunk.js.LICENSE.txt",
     "static/media/gspann-logo.svg": "/aem-spa-2.0/static/media/gspann-logo.dc08ac36.svg",
     "static/media/icon-close.svg": "/aem-spa-2.0/static/media/icon-close.f227c489.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.58be2d71.js",
     "static/js/2.2512a7c3.chunk.js",
-    "static/css/main.5dd56545.chunk.css",
-    "static/js/main.5135e733.chunk.js"
+    "static/css/main.681e6c4c.chunk.css",
+    "static/js/main.d9a7b5b3.chunk.js"
   ]
 }
