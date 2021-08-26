@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abc9cc02e24cfdb4d0782a874f7ddd40",
+    "revision": "00a6b9532aed100eaabc74d20ff9660f",
     "url": "/aem-spa-2.0/index.html"
   },
   {
